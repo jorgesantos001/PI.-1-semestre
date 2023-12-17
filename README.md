@@ -1,4 +1,4 @@
-# PI.-1-semestre
+# PI. 1º semestre
 
 # Nação Nutrida
 Projeto Interdisciplinar do curso de DSM
